@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Shekapuram Pranay Balaji
 
-<!--
-**2300031594pranay/2300031594pranay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a B.Tech Computer Science and Engineering student at KL University (2023–2027) with a CGPA of 8.84. Originally from Tandur, Vikarabad district, Telangana, I am passionate about software development, full-stack engineering, and problem-solving.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- **Languages:** Python, C, Java, JavaScript
+- **Web:** HTML, CSS, React
+- **Tools:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Favorite Projects
+- [pcap-mock-platform](https://github.com/2300031594pranay/pcap-mock-platform)
+- [ecomerceapp](https://github.com/2300031594pranay/ecomerceapp)
+- [frontend](https://github.com/2300031594pranay/frontend)
+- [student](https://github.com/2300031594pranay/student)
+
+## 🏅 Achievements
+- LinguaSkill Certification from Cambridge Assessment English
+- Intermediate studies at Resonance Junior College, Hyderabad
+
+## 💡 About Me / Fun Facts
+- Always curious to learn new things
+- Enjoy editing and capturing moments with my camera
+- Love playing and exploring technology
+
+## 📫 Contact & Social Links
+- Email: [s.pranaybalaji888@gmail.com](mailto:s.pranaybalaji888@gmail.com)
+- LinkedIn: [Shekapuram Pranay Balaji](https://www.linkedin.com/in/shekapuram-pranay-balaji-47500a330)
