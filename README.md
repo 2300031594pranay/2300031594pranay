@@ -1,27 +1,64 @@
-# 👋 Hi, I'm Shekapuram Pranay Balaji
+👋 Hi, I'm Shekapuram Pranay Balaji
 
-I am a B.Tech Computer Science and Engineering student at KL University (2023–2027) with a CGPA of 8.84. Originally from Tandur, Vikarabad district, Telangana, I am passionate about software development, full-stack engineering, and problem-solving.
+🎓 B.Tech Computer Science and Engineering student at KL University (2023–2027)
+📊 Current CGPA: 8.91
+📍 From Tandur, Vikarabad district, Telangana
 
-## 🚀 Skills & Technologies
-- **Languages:** Python, C, Java, JavaScript
-- **Web:** HTML, CSS, React
-- **Tools:** Git
+🚀 Professional Summary
 
-## 🌟 Favorite Projects
-- [pcap-mock-platform](https://github.com/2300031594pranay/pcap-mock-platform)
-- [ecomerceapp](https://github.com/2300031594pranay/ecomerceapp)
-- [frontend](https://github.com/2300031594pranay/frontend)
-- [student](https://github.com/2300031594pranay/student)
+Motivated Computer Science student with strong experience in full-stack development and AI/ML-based applications. Skilled in building scalable systems using Python, Flask, MySQL, and modern web technologies. Passionate about solving real-world problems, optimizing performance, and developing data-driven software solutions in collaborative environments.
 
-## 🏅 Achievements
-- LinguaSkill Certification from Cambridge Assessment English
-- Intermediate studies at Resonance Junior College, Hyderabad
+💻 Skills & Technologies
+🧠 Programming
+Python, C, SQL
+🌐 Web Development
+HTML, CSS, React.js
+Node.js, Express.js
+🤖 AI/ML & Data Science
+Machine Learning (Classification, Regression, Clustering)
+NLP (TF-IDF, Text Preprocessing, Word Embeddings)
+Model Evaluation & Data Preprocessing
+📚 Libraries & Tools
+NumPy, Pandas, Scikit-learn
+Matplotlib, Seaborn
+Flask
+🛠 Tools & Platforms
+Git, GitHub, VS Code
+Jupyter Notebook, Google Colab
+Postman
+🗄 Database
+MySQL
+🌟 Projects
+🔹 HarvestHelper – Farmer Marketplace
+Built a scalable full-stack marketplace with Admin, Farmer, and Customer roles
+Implemented JWT authentication & secure APIs
+Developed features like cart, checkout, and order tracking
+Optimized MySQL queries for better performance
 
-## 💡 About Me / Fun Facts
-- Always curious to learn new things
-- Enjoy editing and capturing moments with my camera
-- Love playing and exploring technology
+🔗 https://github.com/2300031594pranay/ecomerceapp
 
-## 📫 Contact & Social Links
-- Email: [s.pranaybalaji888@gmail.com](mailto:s.pranaybalaji888@gmail.com)
-- LinkedIn: [Shekapuram Pranay Balaji](https://www.linkedin.com/in/shekapuram-pranay-balaji-47500a330)
+🔹 Sentiment Analysis Web Application
+Developed ML model using Logistic Regression (88% accuracy)
+Applied NLP techniques like TF-IDF and text preprocessing
+Built a Flask-based web interface for real-time predictions
+
+🏅 Certifications
+Oracle Cloud Infrastructure 2025 Certified Architect Associate
+Aviatrix Certified Engineer (ACE) – Multicloud Network Associate
+Cambridge Linguaskills (B2)
+Python Programming – Reliance Foundation
+🧑‍💼 Leadership
+
+Professional Development Chair – Websico Club (2024–Present)
+
+Organized workshops and coding sessions
+Mentored students in full-stack development and problem-solving
+💡 About Me
+Curious learner passionate about technology & innovation
+Enjoy editing, photography, and creative work
+Love building real-world impactful projects
+📫 Contact
+
+📧 Email: s.pranaybalaji888@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/shekapuram-pranay-balaji-47500a330
